@@ -10,11 +10,11 @@
 
 ## Controles.
 
-### Tablero:
-Seleccionar enemigo: Flechas de dirección.
-Iniciar duelo: Enter.
+### Tablero
+* Seleccionar enemigo: Flechas de dirección.
+* Iniciar duelo: Enter.
 
-## Space Invaders:
-Mover jugador: Flecha izquierda y derecha.
-Disparar: Flecha arriba.
+### Space Invaders
+* Mover jugador: Flecha izquierda y derecha.
+* Disparar: Flecha arriba.
 
