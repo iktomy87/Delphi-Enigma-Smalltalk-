@@ -18,3 +18,5 @@
 * Mover jugador: Flecha izquierda y derecha.
 * Disparar: Flecha arriba.
 
+### Carrera
+* Mover jugador: Flechas de dirección
